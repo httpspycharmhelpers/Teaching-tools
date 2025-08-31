@@ -49,3 +49,4 @@ A Visualization Teaching Tool for Rectangular Prism Volume Calculation
  
 - 感谢 Three.js 提供轻量高效的3D渲染能力，简化了教学场景下的3D开发流程
 - 感谢 OrbitControls 扩展库，让3D视图的交互操作（旋转、缩放）实现更便捷
+可以自行修改因为如果单个浏览器的话运行太麻烦
